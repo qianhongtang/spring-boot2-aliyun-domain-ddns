@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tangqh</groupId>
-	<artifactId>aliyun-domain</artifactId>
+	<artifactId>aliyun-domain-ddns</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>aliyun-domain</name>
-	<description>aliyun-domain project for Spring Boot</description>
+	<name>${artifactId}</name>
+	<description>${artifactId} project for Spring Boot</description>
 
 
 	<scm>
