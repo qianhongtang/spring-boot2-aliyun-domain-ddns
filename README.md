@@ -7,7 +7,8 @@
  > https://usercenter.console.aliyun.com/#/manage/ak
  
 # 配置
-application.properties
+配置文件路径: src/main/resources/application.properties
+
 ## 阿里云的accessKey配置：
 > aliyun.accessKeyId=
 > aliyun.accessKeySecret=
@@ -17,7 +18,7 @@ application.properties
 > 有多个，请用英文逗号(,)分割
 
 ## 启动
-请运行 AliyunDomainApplication.java 即可
+启动文件名： AliyunDomainApplication.java 
 
 # 代码
 本机公网ip通过IpUtil.java文件获取。
