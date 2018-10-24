@@ -4,17 +4,17 @@
  
 # 条件
  先申请阿里云域名的AccessKey
- >> https://usercenter.console.aliyun.com/#/manage/ak
+ > https://usercenter.console.aliyun.com/#/manage/ak
  
 # 配置
 application.properties
 ## 阿里云的accessKey配置：
->> aliyun.accessKeyId=
->> aliyun.accessKeySecret=
+> aliyun.accessKeyId=
+> aliyun.accessKeySecret=
 
 ## 需要配置更新的域名
->> aliyun.update.domains=xxx.xxx.com, xxx.xxx.com
-有多个，请用英文逗号(,)分割
+> aliyun.update.domains=xxx.xxx.com, xxx.xxx.com
+> 有多个，请用英文逗号(,)分割
 
 ## 启动
 请运行 AliyunDomainApplication.java 即可
