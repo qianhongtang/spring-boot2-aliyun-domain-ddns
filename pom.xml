@@ -12,15 +12,6 @@
 	<name>${artifactId}</name>
 	<description>${artifactId} project for Spring Boot</description>
 
-
-	<scm>
-		<connection>scm:git:http://git.wisdontech.com/wisdontech/project/aliyun/aliyun-domain.git</connection>
-		<developerConnection>scm:git:http://git.wisdontech.com/wisdontech/project/aliyun/aliyun-domain.git</developerConnection>
-		<url>http://git.wisdontech.com/wisdontech/project/aliyun/aliyun-domain.git</url>
-		<tag>v0.0.1-RELEASE</tag>
-	</scm>
-
-
 	<repositories>
 		<repository>
 			<id>sonatype-nexus-staging</id>
